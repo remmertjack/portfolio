@@ -1,0 +1,4 @@
+*.csv
+*.pkl
+*.nc
+*.DS_Store
