@@ -26,6 +26,9 @@ Output:
 """
 
 import time
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+
 from pathlib import Path
 
 import pandas as pd
@@ -35,7 +38,7 @@ from nba_api.stats.endpoints import LeagueGameFinder, PlayByPlayV2, PlayByPlayV3
 
 # ── Configuration ──────────────────────────────────────────────────────────────
 
-SEASONS = ["2021-22", "2022-23", "2023-24", "2024-25", "2025-26"]
+SEASONS = [f"{year}-{str(year+1)[-2:]}" for year in range(2010, 2026)]
 SEASON_TYPE = "Regular Season"   # "Regular Season" | "Playoffs" | "All Star"
 REQUEST_DELAY = 0.5         # seconds between API calls (per request, not per game)
 OUTPUT_DIR = Path(".")
@@ -60,7 +63,7 @@ def get_game_team_map(season: str, season_type: str) -> tuple[list[str], dict]:
 
     team_map = {}
     for game_id, group in df.groupby("GAME_ID"):
-        home_row = group[group["MATCHUP"].str.contains("vs\.", regex=True)]
+        home_row = group[group["MATCHUP"].str.contains(r"vs\.", regex=True)]
         away_row = group[group["MATCHUP"].str.contains("@", regex=False)]
         if home_row.empty or away_row.empty:
             continue
@@ -201,7 +204,7 @@ def main():
 
     if all_frames:
         combined = pd.concat(all_frames, ignore_index=True)
-        combined.to_csv(OUTPUT_DIR / "nba_shots_pbp.csv", index=False)
+        combined.to_csv(OUTPUT_DIR / "nba_shots_pbp_old.csv", index=False)
 
 
 if __name__ == "__main__":
