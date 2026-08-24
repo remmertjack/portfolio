@@ -1263,7 +1263,7 @@ bam_id,full,first,last,bats,position,birth_date,birthCity,birthState,birthCountr
 596012,Kevin Kramer,Kevin,Kramer,L,3B,1993-10-03,Turlock,CA,USA
 599096,Dilson Herrera,Dilson,Herrera,R,2B,1994-03-03,Cartagena,,Colombia
 605280,Clay Holmes,Clay,Holmes,R,P,1993-03-27,Dothan,AL,USA
-621493,Taylor Ward,Taylor,Ward,R,LF,1993-12-14,Dayton,OH,USA
+621493,Taylor Ward,Taylor,Ward,R,DH,1993-12-14,Dayton,OH,USA
 660271,Shohei Ohtani,Shohei,Ohtani,L,TWP,1994-07-05,Oshu,,Japan
 641684,Michael Hermosillo,Michael,Hermosillo,R,RF,1995-01-17,Mesa,AZ,USA
 582473,Sherman Johnson,Sherman,Johnson,L,2B,1990-07-15,Tampa,FL,USA
@@ -1608,7 +1608,7 @@ bam_id,full,first,last,bats,position,birth_date,birthCity,birthState,birthCountr
 656954,Justus Sheffield,Justus,Sheffield,L,P,1996-05-13,Tullahoma,TN,USA
 592612,Josh Osich,Josh,Osich,L,P,1988-09-03,Boise,ID,USA
 622772,Jimmy Cordero,Jimmy,Cordero,R,P,1991-10-19,San Cristobal,,Dominican Republic
-657041,Lane Thomas,Lane,Thomas,R,CF,1995-08-23,Knoxville,TN,USA
+657041,Lane Thomas,Lane,Thomas,R,LF,1995-08-23,Knoxville,TN,USA
 605156,Aaron Brooks,Aaron,Brooks,R,P,1990-04-27,Montclair,CA,USA
 670329,Rico Garcia,Rico,Garcia,R,P,1994-01-10,Honolulu,HI,USA
 641312,Shaun Anderson,Shaun,Anderson,R,P,1994-10-29,Coral Springs,FL,USA
@@ -2512,57 +2512,59 @@ bam_id,full,first,last,bats,position,birth_date,birthCity,birthState,birthCountr
 691728,Zac Veen,Zac,Veen,L,LF,2001-12-12,Port Orange,FL,USA
 691907,Tsung-Che Cheng,Tsung-Che,Cheng,L,SS,2001-07-26,Pingtung County,,Taiwan
 669194,Ryne Nelson,Ryne,Nelson,R,P,1998-02-01,Henderson,NV,USA
-806146,George Lombard Jr.,George,Lombard Jr.,R,SS,2005-06-02,Miami,FL,USA
-682987,Spencer Jones,Spencer,Jones,L,CF,2001-05-14,Encinitas,CA,USA
 814439,Ryan Waldschmidt,Ryan,Waldschmidt,R,CF,2002-10-07,Sarasota,FL,USA
 699912,Jose Fernandez,Jose,Fernandez,R,DH,2003-09-22,Cumana,,Venezuela
-808959,Munetaka Murakami,Munetaka,Murakami,L,1B,2000-02-02,Kumamoto,,Japan
-803011,Sam Antonacci,Sam,Antonacci,L,LF,2003-02-06,Springfield,IL,USA
-699393,Pedro Ramírez,Pedro,Ramírez,S,2B,2004-04-01,Temblador,,Venezuela
-695731,Braden Montgomery,Braden,Montgomery,S,RF,2003-04-16,Des Moines,IA,USA
-802139,JJ Wetherholt,JJ,Wetherholt,L,2B,2002-09-10,Baltimore,MD,USA
-691458,Blaze Jordan,Blaze,Jordan,R,3B,2002-12-19,Southaven,MS,USA
-695491,Joshua Báez,Joshua,Báez,R,RF,2003-06-28,Boston,MA,USA
-663494,Bryan Torres,Bryan,Torres,L,LF,1997-07-02,Caguas,,Puerto Rico
-694197,Angel Genao,Angel,Genao,S,2B,2004-05-19,Castillo,,Dominican Republic
-683953,Travis Bazzana,Travis,Bazzana,L,2B,2002-08-28,Hornsby,NSW,Australia
+700652,Kenny Piper,Kenny,Piper,R,C,1998-07-12,Florissant,MO,USA
 813841,Jonah Cox,Jonah,Cox,R,CF,2001-08-04,Louisville,CO,USA
-701852,Drew Cavanaugh,Drew,Cavanaugh,L,C,2002-01-27,Troy,MI,USA
 682674,Victor Bericoto,Victor,Bericoto,R,LF,2001-12-03,Maracay,,Venezuela
-681198,TJ Rumfield,TJ,Rumfield,L,1B,2000-05-17,Richmond,VA,USA
-694249,Cole Carrigg,Cole,Carrigg,S,CF,2002-05-08,Modesto,CA,USA
-703607,Henry Bolte,Henry,Bolte,R,CF,2003-08-04,San Francisco,CA,USA
-695720,Tommy White,Tommy,White,R,3B,2003-03-02,St. Petersburg,FL,USA
-806198,Cooper Pratt,Cooper,Pratt,R,SS,2004-08-18,Hialeah,FL,USA
-800325,Luis Lara,Luis,Lara,S,RF,2004-11-17,San Felipe,,Venezuela
-801126,Brock Rodden,Brock,Rodden,S,2B,2000-05-25,Durant,OK,USA
-805347,Jim Jarvis,Jim,Jarvis,L,SS,2000-11-06,San Diego,CA,USA
-701785,Kaelen Culpepper,Kaelen,Culpepper,R,SS,2002-12-29,Memphis,TN,USA
+701852,Drew Cavanaugh,Drew,Cavanaugh,L,C,2002-01-27,Troy,MI,USA
+806367,Turner Hill,Turner,Hill,L,CF,1999-04-04,Marietta,OH,USA
+803011,Sam Antonacci,Sam,Antonacci,L,LF,2003-02-06,Springfield,IL,USA
+808959,Munetaka Murakami,Munetaka,Murakami,L,1B,2000-02-02,Kumamoto,,Japan
 701807,Carson Benge,Carson,Benge,L,RF,2003-01-20,Oklahoma City,OK,USA
 805999,A.J. Ewing,A.J.,Ewing,L,CF,2004-08-10,Kettering,OH,USA
-823550,Sung-Mun Song,Sung-Mun,Song,L,2B,1996-08-29,Seoul,,Republic of Korea
-691788,Joe Mack,Joe,Mack,L,C,2002-12-27,Williamsville,NY,USA
-702222,Justin Crawford,Justin,Crawford,L,CF,2004-01-13,Phoenix,AZ,USA
-680664,Eduardo Valencia,Eduardo,Valencia,R,C,2000-01-25,Valencia,,Venezuela
-701678,Hao-Yu Lee,Hao-Yu,Lee,R,2B,2003-02-03,New Taipei,,Taiwan
-703601,Max Clark,Max,Clark,L,CF,2004-12-21,Franklin,IN,USA
-699013,Esmerlyn Valdez,Esmerlyn,Valdez,R,RF,2004-01-27,San Juan La Maguana,,Dominican Republic
-701162,Ben Malgeri,Ben,Malgeri,R,RF,2000-01-12,Exeter,NH,USA
+683953,Travis Bazzana,Travis,Bazzana,L,2B,2002-08-28,Hornsby,NSW,Australia
+694197,Angel Genao,Angel,Genao,S,2B,2004-05-19,Castillo,,Dominican Republic
+681198,TJ Rumfield,TJ,Rumfield,L,1B,2000-05-17,Richmond,VA,USA
+694249,Cole Carrigg,Cole,Carrigg,S,CF,2002-05-08,Modesto,CA,USA
+800050,Chase DeLauter,Chase,DeLauter,L,RF,2001-10-08,Frederick,MD,USA
+695720,Tommy White,Tommy,White,R,3B,2003-03-02,St. Petersburg,FL,USA
+669384,Raynel Delgado,Raynel,Delgado,L,2B,2000-04-04,Havana,,Cuba
+703607,Henry Bolte,Henry,Bolte,R,CF,2003-08-04,San Francisco,CA,USA
 805808,Kevin McGonigle,Kevin,McGonigle,L,SS,2004-08-18,Media,PA,USA
-694378,Jacob Gonzalez,Jacob,Gonzalez,L,SS,2002-05-30,Glendora,CA,USA
+703601,Max Clark,Max,Clark,L,CF,2004-12-21,Franklin,IN,USA
 814430,Brett Callahan,Brett,Callahan,L,LF,2001-11-02,Newark,DE,USA
+701678,Hao-Yu Lee,Hao-Yu,Lee,R,2B,2003-02-03,New Taipei,,Taiwan
+701162,Ben Malgeri,Ben,Malgeri,R,RF,2000-01-12,Exeter,NH,USA
+680664,Eduardo Valencia,Eduardo,Valencia,R,DH,2000-01-25,Valencia,,Venezuela
+694378,Jacob Gonzalez,Jacob,Gonzalez,L,SS,2002-05-30,Glendora,CA,USA
+691788,Joe Mack,Joe,Mack,L,C,2002-12-27,Williamsville,NY,USA
+694673,Abimelec Ortiz,Abimelec,Ortiz,L,1B,2002-02-22,Bayamon,,Puerto Rico
+800325,Luis Lara,Luis,Lara,S,RF,2004-11-17,San Felipe,,Venezuela
+806198,Cooper Pratt,Cooper,Pratt,R,SS,2004-08-18,Hialeah,FL,USA
+703520,Brett Bateman,Brett,Bateman,L,CF,2002-03-19,St. Paul,MN,USA
 807727,Charles McAdoo,Charles,McAdoo,R,2B,2002-03-06,Walnut Creek,CA,USA
 678218,Brandon Valenzuela,Brandon,Valenzuela,S,C,2000-10-02,Hermosillo,Sonora,Mexico
+806146,George Lombard Jr.,George,Lombard Jr.,R,SS,2005-06-02,Miami,FL,USA
 672960,Kazuma Okamoto,Kazuma,Okamoto,R,3B,1996-06-30,Gojo,,Japan
-703520,Brett Bateman,Brett,Bateman,L,CF,2002-03-19,St. Paul,MN,USA
-694673,Abimelec Ortiz,Abimelec,Ortiz,L,1B,2002-02-22,Bayamon,,Puerto Rico
-681047,Christian Franklin,Christian,Franklin,R,CF,1999-11-30,Overland Park,KS,USA
+682987,Spencer Jones,Spencer,Jones,L,RF,2001-05-14,Encinitas,CA,USA
+691458,Blaze Jordan,Blaze,Jordan,R,3B,2002-12-19,Southaven,MS,USA
+802139,JJ Wetherholt,JJ,Wetherholt,L,2B,2002-09-10,Baltimore,MD,USA
+663494,Bryan Torres,Bryan,Torres,L,LF,1997-07-02,Caguas,,Puerto Rico
+702222,Justin Crawford,Justin,Crawford,L,CF,2004-01-13,Phoenix,AZ,USA
+695491,Joshua Báez,Joshua,Báez,R,RF,2003-06-28,Boston,MA,USA
+701785,Kaelen Culpepper,Kaelen,Culpepper,R,SS,2002-12-29,Memphis,TN,USA
+699393,Pedro Ramírez,Pedro,Ramírez,S,2B,2004-04-01,Temblador,,Venezuela
+801126,Brock Rodden,Brock,Rodden,S,SS,2000-05-25,Durant,OK,USA
+695731,Braden Montgomery,Braden,Montgomery,S,RF,2003-04-16,Des Moines,IA,USA
 699302,Héctor Rodríguez,Héctor,Rodríguez,L,RF,2004-03-11,Santo Domingo,,Dominican Republic
-806367,Turner Hill,Turner,Hill,L,CF,1999-04-04,Marietta,OH,USA
-687749,Jase Bowen,Jase,Bowen,R,RF,2000-09-02,Northwood,OH,USA
 687605,Andrew Pinckney,Andrew,Pinckney,R,LF,2000-12-07,Tuscaloosa,AL,USA
+805347,Jim Jarvis,Jim,Jarvis,L,SS,2000-11-06,San Diego,CA,USA
+823550,Sung-Mun Song,Sung-Mun,Song,L,2B,1996-08-29,Seoul,,Republic of Korea
+699013,Esmerlyn Valdez,Esmerlyn,Valdez,R,RF,2004-01-27,San Juan La Maguana,,Dominican Republic
+681047,Christian Franklin,Christian,Franklin,R,CF,1999-11-30,Overland Park,KS,USA
+687749,Jase Bowen,Jase,Bowen,R,RF,2000-09-02,Northwood,OH,USA
 701649,James Triantos,James,Triantos,R,2B,2003-01-29,Fairfax,VA,USA
-800050,Chase DeLauter,Chase,DeLauter,L,RF,2001-10-08,Frederick,MD,USA
 695508,Cam Cauley,Cam,Cauley,R,CF,2003-02-06,Houston,TX,USA
 806068,Colt Emerson,Colt,Emerson,L,SS,2005-07-20,Zanesville,OH,USA
 691740,Daniel Susac,Daniel,Susac,R,C,2001-05-14,Roseville,CA,USA
@@ -2570,7 +2572,6 @@ bam_id,full,first,last,bats,position,birth_date,birthCity,birthState,birthCountr
 678760,Eddys Leonard,Eddys,Leonard,R,SS,2000-11-10,Santo Domingo,,Dominican Republic
 671155,Ivan Johnson,Ivan,Johnson,S,2B,1998-10-11,Atlanta,GA,USA
 672613,Eliezer Alfonzo,Eliezer,Alfonzo,S,C,1999-09-23,Barcelona,,Venezuela
-700652,Kenny Piper,Kenny,Piper,R,C,1998-07-12,Florissant,MO,USA
 687282,Gabriel Rincones Jr.,Gabriel,Rincones Jr.,L,RF,2001-03-03,Boynton Beach,FL,USA
 828599,Lucas Spence,Lucas,Spence,L,CF,2003-01-27,Chicago Heights,IL,USA
 683679,Jesus Rodriguez,Jesus,Rodriguez,R,C,2002-04-23,La Victoria,,Venezuela
@@ -2581,7 +2582,6 @@ bam_id,full,first,last,bats,position,birth_date,birthCity,birthState,birthCountr
 815873,Sean Keys,Sean,Keys,L,DH,2003-05-26,Huntington,NY,USA
 696135,Kahlil Watson,Kahlil,Watson,L,RF,2003-04-16,Chase City,VA,USA
 811965,Joshua Kuroda-Grauer,Joshua,Kuroda-Grauer,R,3B,2003-01-31,New Brunswick,NJ,USA
-669384,Raynel Delgado,Raynel,Delgado,L,2B,2000-04-04,Havana,,Cuba
 681190,Randy Vásquez,Randy,Vásquez,R,P,1998-11-03,Navarette,,Dominican Republic
 682989,Victor Mederos,Victor,Mederos,R,P,2001-06-08,Santa Clara,,Cuba
 660710,Rodolfo Durán,Rodolfo,Durán,R,C,1998-02-19,Santo Domingo,,Dominican Republic
@@ -2603,5 +2603,5 @@ bam_id,full,first,last,bats,position,birth_date,birthCity,birthState,birthCountr
 683079,Omar Martinez,Omar,Martinez,L,C,2001-07-05,San Felix,,Venezuela
 695020,Tanner Murray,Tanner,Murray,R,LF,1999-09-03,Santa Clara,CA,USA
 682877,Juan Brito,Juan,Brito,S,2B,2001-09-24,Santo Domingo,,Dominican Republic
-691277,Deyvison De Los Santos,Deyvison,De Los Santos,R,1B,2003-06-21,Santo Domingo,,Dominican Republic
+691277,Deyvison De Los Santos,Deyvison,De Los Santos,R,3B,2003-06-21,Santo Domingo,,Dominican Republic
 691620,Jeferson Quero,Jeferson,Quero,R,C,2002-10-08,Barquisimeto,,Venezuela
